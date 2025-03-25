@@ -8,4 +8,4 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://github.com//demo-fluxcd-app-podinfo
+  url: https://github.com/DGne-Nurag/demo-fluxcd-app-podinfo
